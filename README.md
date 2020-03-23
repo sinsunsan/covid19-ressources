@@ -1,4 +1,6 @@
 # Open source covid 19 projects 
+
+Please contribute to reference more COVID-19 open projects and ressources
  
 ### Data science  and vizualization
  
