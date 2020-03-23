@@ -12,6 +12,11 @@
 * Epidemy simulator https://gabgoh.github.io/COVID/index.html
 
 
+### Open hardware 
+
+* Open source Low cost ventilator https://github.com/jcl5m1/ventilator
+
+
 ### Biology and medecine 
 
 * Open science project to share detection methods of virus	https://app.jogl.io/project/118
