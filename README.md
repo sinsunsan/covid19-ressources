@@ -1,10 +1,9 @@
 
-All ressources on covid 19 
+# More complete ressources and projects directory 
+
 * https://github.com/soroushchehresa/awesome-coronavirus
+* http://open-source-covid-19.weileizeng.com/world
 
-# Open source covid 19 projects 
-
-Please contribute to reference more COVID-19 open projects and ressources
  
 ### Data science  and vizualization
  
@@ -18,7 +17,3 @@ Please contribute to reference more COVID-19 open projects and ressources
 * Open science project to share detection methods of virus	https://app.jogl.io/project/118
 * COVID-19 Open Research Dataset (CORD-19)	https://pages.semanticscholar.org/coronavirus-research
 
-
-### Other ressources 
-
-https://docs.google.com/spreadsheets/d/1rdeNNiFwcvcClZRMjoPAzwUSM5eobsKTdIq56Rjaeic/edit#gid=0
