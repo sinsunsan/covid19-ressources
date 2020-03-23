@@ -18,14 +18,13 @@
 ### Machine learning 
 
 * Machine learning dataset / Challenges to help prioritize more important text about COVID19 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge 
+* COVID-19 Open Research Dataset (CORD-19)	https://pages.semanticscholar.org/coronavirus-research
+
 
 ### Open hardware 
 
 * Open source Low cost ventilator https://github.com/jcl5m1/ventilator
-
-
-### Biology and medecine 
-
 * Open source and low-cost detection kit https://app.jogl.io/project/118
-* COVID-19 Open Research Dataset (CORD-19)	https://pages.semanticscholar.org/coronavirus-research
+
+
 
